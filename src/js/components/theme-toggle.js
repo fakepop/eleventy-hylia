@@ -27,7 +27,7 @@ class ThemeToggle extends HTMLElement {
 
   applySetting(passedSetting) {
     let currentSetting = passedSetting || localStorage.getItem(this.STORAGE_KEY);
-
+alert(currentSetting);
     if (currentSetting) {
       document.documentElement.setAttribute('data-user-color-scheme', currentSetting);
       this.setButtonLabelAndStatus(currentSetting);
