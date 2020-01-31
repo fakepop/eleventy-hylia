@@ -5,7 +5,7 @@ class ThemeToggle extends HTMLElement {
   constructor() {
     super();
 
-    this.STORAGE_KEY = 'dark';
+    this.STORAGE_KEY = 'user-color-scheme';
     this.COLOR_MODE_KEY = '--color-mode';
   }
 
