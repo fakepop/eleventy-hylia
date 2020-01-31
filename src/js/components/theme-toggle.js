@@ -5,7 +5,7 @@ class ThemeToggle extends HTMLElement {
   constructor() {
     super();
 
-    this.STORAGE_KEY = 'user-color-scheme';
+    this.STORAGE_KEY = 'dark';
     this.COLOR_MODE_KEY = '--color-mode';
   }
 
@@ -27,7 +27,7 @@ class ThemeToggle extends HTMLElement {
 
   applySetting(passedSetting) {
     let currentSetting = passedSetting || localStorage.getItem(this.STORAGE_KEY);
-alert(currentSetting);
+
     if (currentSetting) {
       document.documentElement.setAttribute('data-user-color-scheme', currentSetting);
       this.setButtonLabelAndStatus(currentSetting);
