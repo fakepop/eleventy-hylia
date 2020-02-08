@@ -1,10 +1,8 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Life takes a long time to learn.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: images/fakepop_logo.png
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+I write so I don't forget what I learn. Hopefully I can help spur interest in some way in others along the way.
