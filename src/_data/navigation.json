@@ -9,6 +9,11 @@
       "text": "Twitter",
       "url": "https://twitter.com/fakepop",
       "external": true
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/francispilon/",
+      "external": true
     }
   ]
 }
