@@ -15,6 +15,8 @@ On the front burner:
 * [The Places That Scare You](https://www.goodreads.com/book/show/136977.The_Places_That_Scare_You): A Guide to Fearlessness in Difficult Times by Pema Chödrön for a good dose of lively and grounding Buddhist precepts.
 * [Frankenstein; or, The Modern Prometheus](https://www.gutenberg.org/files/84/84-h/84-h.htm) by Mary Wollstonecraft (Godwin) Shelley. I had very misplaced conception of what this whole Frankenstein story was about. It's an awesome tale of misunderstandings, narrow-mindedness, loss and suffering.
 * [Triple Your Reading Speed](https://www.goodreads.com/book/show/160074.Triple_Your_Reading_Speed) by Wade E. Cutler. This is a book that I got from the library and seeing how much of a practical book it is (exercises), I might have to get my own copy to be able to commit to working on increasing my reading speed.
+* [Talking to Strangers](https://www.goodreads.com/book/show/43848929-talking-to-strangers): What We Should Know about the People We Don't Know by Malcolm Gladwell. This one is in [audio-book format](https://www.audible.ca/pd/Talking-to-Strangers-Audiobook/B07NJJJX8R) and is for an upcoming book club meeting. The format goes beyond the traditional book reading by including audio excerpts alongside Gladwell's renown storytelling chops. 
+* [What Money Can't Buy](https://www.goodreads.com/book/show/13221379-what-money-can-t-buy): The Moral Limits of Markets by Michael J. Sandel offers a look at the power and limits of market-driven pricing seeing through a moral/ethical lens.
 
 On the back burner, I have a few books that I have started by somehow could quite finish. I still intend to do so, though.
 
