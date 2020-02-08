@@ -5,11 +5,9 @@ date: 2020-02-08T22:49:42.339Z
 tags:
   - books
 ---
-> On Books.
-
 I often read (or listen) to multiple books at any given time. Interest and velocity vary greatly.
 
-On the front burner:
+On the front burner and actively reading:
 
 * [Hot Thai Kitchen](https://www.goodreads.com/book/show/25733917-hot-thai-kitchen): Demystifying Thai Cuisine with Authentic Recipes to Make at Home by local Vancouverite [Pailin Chongchitnant](https://www.youtube.com/pailinskitchen/). A few years ago, [Steven Forth](https://twitter.com/StevenForth) told me he always had a cookbook on his reading diet which inspired me to do so as well.
 * [The Places That Scare You](https://www.goodreads.com/book/show/136977.The_Places_That_Scare_You): A Guide to Fearlessness in Difficult Times by Pema Chödrön for a good dose of lively and grounding Buddhist precepts.
