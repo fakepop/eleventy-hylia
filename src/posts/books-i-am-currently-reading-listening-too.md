@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Books I am currently reading / listening too
+title: Books I am currently reading / listening to
 date: 2020-02-08T22:49:42.339Z
 tags:
   - books
